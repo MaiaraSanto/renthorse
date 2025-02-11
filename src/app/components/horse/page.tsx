@@ -49,7 +49,7 @@ const HorseDetail = () => {
             <p><strong>Coloração:</strong> {horse.color || "Não informada"}</p>
             <p><strong>História:</strong> {horse.history || "Não disponível"}</p>
             <p><strong>Características especiais:</strong> {horse.special || "Nenhuma"}</p>
-            <p><strong>Valor:</strong> {horse.price || "Sob consulta"}</p>
+            <p><strong>Valor:</strong> {horse.prize || "Sob consulta"}</p>
           </div>
 
           {/* Botões */}
