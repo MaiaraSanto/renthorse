@@ -1,0 +1,36 @@
+/* tailwind.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .max-lines-5 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 7; /* Definindo o número máximo de linhas */
+  }
+  @media (max-width: 600px) {
+    /* Ajuste para Samsung Galaxy Tab 54 */
+    .card-responsive {
+      width: 91.666667%; /* Equivale a w-11/12 */
+      margin: 0 auto;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    /* Ajuste para Microsoft Lumia 550 */
+    .card-responsive {
+      width: 100%; /* Ocupa toda a largura */
+      margin: 0 auto;
+    }
+  }
+  
+    
+  }
+  
+
+
+
+
