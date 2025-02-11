@@ -11,7 +11,13 @@
   
     ],     
      "title": "Manga Larga",
-     "description": "O Manga Larga é uma raça de cavalo brasileira muito apreciada por sua marcha característica, conhecida como 'marcha batida', que oferece uma combinação única de suavidade e ritmo nos movimentos. Com porte robusto, temperamento dócil e disposição enérgica, o Manga Larga é amplamente valorizado pela sua versatilidade. Utilizado tanto em cavalgadas e esportes equestres quanto no trabalho rural, representa um verdadeiro símbolo da cultura e tradição rural do Brasil. Sua elegância e resistência tornaram-no uma escolha popular entre criadores e entusiastas em todo o país, que admiram a raça por seu desempenho e adaptabilidade em diferentes atividades. O Manga Larga é uma raça de cavalo genuinamente brasileira, valorizada por sua marcha única, conhecida como 'marcha batida', que combina suavidade e ritmo. "
+     "description": "O Manga Larga é uma raça de cavalo brasileira muito apreciada por sua marcha característica, conhecida como 'marcha batida', que oferece uma combinação única de suavidade e ritmo nos movimentos. Com porte robusto, temperamento dócil e disposição enérgica, o Manga Larga é amplamente valorizado pela sua versatilidade. Utilizado tanto em cavalgadas e esportes equestres quanto no trabalho rural, representa um verdadeiro símbolo da cultura e tradição rural do Brasil. Sua elegância e resistência tornaram-no uma escolha popular entre criadores e entusiastas em todo o país, que admiram a raça por seu desempenho e adaptabilidade em diferentes atividades.",
+     "weight": "400-500 kg",
+      "age": "10 anos",
+      "color": "Baio",
+      "history": "Originário do sul do Brasil, o Manga Larga é um cavalo robusto e adaptável.",
+      "special": "Marcha batida",
+      "prize": "R$ 5.000,00"
    },
    {
      "imageSrc": "https://img.freepik.com/fotos-gratis/cavalo-correndo-pela-velha-paisagem-ocidental_23-2150527864.jpg?w=360&t=st=1700870273~exp=1700870873~hmac=ea9ab28f71543b129c7369901daa596c6b47055425d673ea6591fe246e28ec8a",
@@ -24,7 +30,13 @@
   
     ],  
      "title": "Puro Sangue Inglês",
-     "description": "O Puro Sangue Inglês, também conhecido como PSI, é uma das raças de cavalos de corrida mais renomadas e valorizadas em todo o mundo. Com uma combinação impressionante de velocidade, resistência e elegância, esses cavalos são amplamente utilizados em competições de alta performance, especialmente nas corridas de curta e média distância. Originada na Inglaterra no século XVII, a raça foi desenvolvida a partir de cruzamentos seletivos entre éguas nativas e garanhões árabes, persas e turcos, visando aprimorar características como agilidade, força e leveza.Os Puro Sangue Ingleses se destacam não apenas por sua habilidade atlética, mas também por sua aparência majestosa e porte nobre. Com uma conformação física excepcional, esses cavalos possuem linhas corporais refinadas e musculatura. "
+     "description": "O Puro Sangue Inglês, também conhecido como PSI, é uma das raças de cavalos de corrida mais renomadas e valorizadas em todo o mundo. Com uma combinação impressionante de velocidade, resistência e elegância, esses cavalos são amplamente utilizados em competições de alta performance, especialmente nas corridas de curta e média distância. Originada na Inglaterra no século XVII, a raça foi desenvolvida a partir de cruzamentos seletivos entre éguas nativas e garanhões árabes, persas e turcos, visando aprimorar características como agilidade, força e leveza. Os Puro Sangue Ingleses se destacam não apenas por sua habilidade atlética, mas também por sua aparência majestosa e porte nobre.",
+     "weight": "450 kg",
+  "age": "4 anos",
+  "color": "Castanho",
+  "history": "Originário da Inglaterra, o Puro Sangue Inglês é uma das raças mais valorizadas no mundo equestre, especialmente em competições de turfe.",
+  "special": "Excelente para corridas e saltos, com um temperamento energético e focado.",
+  "prize": "R$ 50.000,00"
    },
    {
      "imageSrc": "https://img.freepik.com/fotos-premium/cavalo-marrom-correndo-em-campo-criado-usando-tecnologia-de-ia-generativa_772924-4006.jpg?size=626&ext=jpg",
@@ -37,7 +49,13 @@
   
     ],  
      "title": "Quarto de Milha",
-     "description": "O Quarto de Milha é uma raça versátil e ágil, amplamente utilizada em corridas de curta distância e em diversas atividades equestres."
+     "description": "O Quarto de Milha é uma raça de cavalo conhecida por sua versatilidade, agilidade e velocidade em corridas de curta distância. Originária dos Estados Unidos, é uma das raças mais populares do mundo, especialmente em atividades como rodeios, trabalho com gado e competições equestres. Sua musculatura forte e compacta, combinada com um temperamento dócil e inteligente, o torna ideal para cavaleiros de todos os níveis. Além das corridas, o Quarto de Milha se destaca em provas como o barrel racing, cutting e rédeas, além de ser um excelente companheiro para passeios e atividades de lazer.",
+     "weight": "500 kg",
+  "age": "6 anos",
+  "color": "Alazão",
+  "history": "Originário dos Estados Unidos, o Quarto de Milha é uma raça desenvolvida para corridas curtas e trabalhos em fazendas, sendo muito popular no rodeio e no hipismo rural.",
+  "special": "Excelente para provas de rédeas, tambor e laço, além de ser um cavalo dócil e de fácil treinamento.",
+  "prize": "R$ 35.000,00"
    },
    {
      "imageSrc": "https://img.freepik.com/fotos-gratis/foto-vertical-de-um-ponei-marrom-no-campo-de-grama-durante-o-tempo-nublado_181624-15253.jpg?w=360&t=st=1700870376~exp=1700870976~hmac=6cd812950cb10d6807757da5ec42e6a06bc910bc9b3fd5f39fdbda2b58e6f45f",
@@ -50,7 +68,13 @@
   
     ],  
      "title": "Árabe",
-     "description": "O cavalo Árabe é conhecido por sua resistência, elegância e é uma das raças mais antigas do mundo, com uma história rica e influência global."
+     "description": "O cavalo Árabe é uma das raças mais icônicas e antigas do mundo, reconhecida por sua resistência, elegância e papel fundamental na formação de diversas outras raças equinas. Com uma história que remonta a milhares de anos, o Árabe é originário da Península Arábica, onde era criado pelos beduínos, povos nômades do deserto. Esses cavalos eram altamente valorizados por sua capacidade de sobreviver em condições extremas, como o clima árido e as longas travessias pelo deserto, além de sua velocidade e lealdade. O cavalo Árabe continua a ser um símbolo de beleza, resistência e história, cativando admiradores em todo o mundo.",
+     "weight": "450 kg",
+  "age": "7 anos",
+  "color": "Tordilho",
+  "history": "Originário do deserto da Península Arábica, o Cavalo Árabe é uma raça que remonta a milhares de anos, sendo altamente valorizada por sua resistência em condições extremas e sua lealdade aos humanos.",
+  "special": "Excelente para enduro, exposições e equitação, com um temperamento dócil e altamente inteligente.",
+  "prize": "R$ 80.000,00"
    },  
    {
      "imageSrc": "https://img.freepik.com/fotos-gratis/cavalo-pasta-em-uma-pastagem-de-montanha-onde-apos-a-chuva-pastagens-verdes-na-zona-alpina-dos-carpatos-sao-cobertas-por-um-mar-de-neblina_661209-169.jpg?w=360&t=st=1700870400~exp=1700871000~hmac=3bb970e585a0213dadf1a6a15a74fd7119ca86c1a00f7b9d89794019eb4c6738",
@@ -63,7 +87,13 @@
   
     ],  
      "title": "Appaloosa",
-     "description": "O Appaloosa é conhecido por sua pelagem única e padrão de manchas, sendo uma raça versátil e apreciada em diversas atividades e competições equestres."
+     "description": "O Appaloosa é uma raça de cavalo reconhecida mundialmente por sua pelagem única e padrão de manchas, que o torna facilmente identificável e admirado. Além de sua aparência distintiva, o Appaloosa é valorizado por sua versatilidade, inteligência e temperamento dócil, o que o torna uma escolha popular para diversas atividades e competições equestres. Sua história é rica e está profundamente ligada aos povos indígenas das Américas, especialmente os Nez Perce, que foram responsáveis por desenvolver e preservar a raça. O Appaloosa é uma raça que combina beleza, história e funcionalidade, conquistando admiradores em todo o mundo.",
+     "weight": "500 kg",
+  "age": "5 anos",
+  "color": "Leopardo",
+  "history": "Originário dos Estados Unidos, o Appaloosa foi desenvolvido pelos índios Nez Perce e é famoso por sua pelagem distinta e habilidades em trabalho e esportes.",
+  "special": "Excelente para trilhas, provas de rédeas e exibições, com um temperamento dócil e adaptável.",
+  "prize": "R$ 40.000,00"
    },
    {
      "imageSrc": "https://img.freepik.com/fotos-gratis/cavalo-marrom-em-um-campo-cercado-por-vegetacao-sob-a-luz-do-sol_181624-14161.jpg?w=360&t=st=1700877067~exp=1700877667~hmac=b983fd5167c90adc7fed8bb543bafcfd62d6ddd8a3c11e1d428ae319bb0ce456",
@@ -76,7 +106,13 @@
   
     ],  
      "title": "Friesian",
-     "description": "O Friesian é uma raça de origem neerlandesa, conhecida por sua beleza, movimentos graciosos e pelagem escura. É frequentemente utilizado em cerimônias e eventos especiais."
+     "description": "O Friesian, ou Frísio, é uma raça de cavalo originária da Frísia, uma região dos Países Baixos (Holanda), conhecida por sua beleza impressionante, movimentos elegantes e pelagem predominantemente negra. Com uma história que remonta à Idade Média, o Friesian é uma das raças mais antigas e icônicas da Europa, tendo sido utilizado tanto para batalhas quanto para trabalhos agrícolas e, mais recentemente, para esportes equestres e eventos cerimoniais. Sua aparência majestosa e temperamento dócil o tornam um cavalo altamente valorizado em todo o mundo.",
+     "weight": "600 kg",
+  "age": "8 anos",
+  "color": "Preto",
+  "history": "Originário da Frísia, na Holanda, o Frisão é uma raça antiga que remonta à Idade Média. Era utilizado como cavalo de guerra e, posteriormente, como cavalo de tração e para adestramento.",
+  "special": "Excelente para adestramento, tração e eventos cinematográficos, com um temperamento nobre e dócil.",
+  "prize": "R$ 100.000,00"
    },
    {
      "imageSrc": "https://img.freepik.com/fotos-premium/retrato-de-um-cavalo-baia_215828-3.jpg?size=626&ext=jpg&ga=GA1.1.1946219361.1700870174&semt=sph",
@@ -89,7 +125,13 @@
   
     ],  
      "title": "Clydesdale",
-     "description": "O Clydesdale é uma raça de cavalo de tração pesada originária da Escócia, conhecido por sua força e porte impressionante. Tradicionalmente utilizado em atividades agrícolas e eventos."
+     "description": "O Clydesdale é uma raça de cavalo de tração pesada originária da região de Clydesdale, no vale do rio Clyde, na Escócia. Reconhecido por sua força excepcional, porte imponente e temperamento dócil, o Clydesdale é um dos cavalos de tração mais icônicos e admirados do mundo. Historicamente, essa raça foi essencial para o desenvolvimento agrícola e industrial, sendo utilizada para puxar carroças pesadas, arados e maquinários. Hoje, além de seu papel tradicional, o Clydesdale é um símbolo de prestígio e elegância, frequentemente visto em desfiles, eventos públicos e até mesmo em campanhas publicitárias.",
+     "weight": "900 kg",
+  "age": "7 anos",
+  "color": "Castanho com manchas brancas",
+  "history": "Originário da Escócia, o Clydesdale foi desenvolvido para trabalhos pesados, como transporte de cargas e agricultura. Hoje, é famoso por sua participação em desfiles e eventos publicitários.",
+  "special": "Excelente para tração, desfiles e eventos publicitários, com um temperamento calmo e gentil.",
+  "prize": "R$ 120.000,00"
    },
    {
      "imageSrc": "https://img.freepik.com/fotos-gratis/cavalos-correndo-pela-sobremesa_23-2150690997.jpg?size=626&ext=jpg&ga=GA1.1.1946219361.1700870174&semt=sph",
@@ -102,7 +144,13 @@
   
     ],  
      "title": "Mustang",
-     "description": "O Mustang é uma raça de cavalo selvagem originária da América do Norte, conhecido por sua resistência, agilidade e ligação histórica com os cavalos trazidos pelos colonizadores europeus."
+     "description": "O Mustang é uma raça de cavalo selvagem que se tornou um ícone da cultura e da história da América do Norte. Originário dos cavalos trazidos pelos colonizadores europeus no século XVI, o Mustang é o resultado de séculos de adaptação ao ambiente selvagem e de seleção natural. Conhecido por sua resistência, agilidade e espírito livre, esse cavalo representa não apenas a sobrevivência, mas também a liberdade e a conexão com o passado selvagem do continente. Sua história está profundamente ligada à expansão do Oeste Americano, aos povos indígenas e à mitologia da fronteira. O Mustang é mais do que um cavalo; é um símbolo vivo da história, da liberdade e da resiliência da América do Norte.",
+     "weight": "500 kg",
+  "age": "8 anos",
+  "color": "Baio",
+  "history": "Originário dos Estados Unidos, o Mustang descende de cavalos trazidos pelos colonizadores espanhóis. Hoje, é um símbolo da cultura e da história do Oeste Americano.",
+  "special": "Excelente para trilhas e vida selvagem, com um temperamento independente e resistente.",
+  "prize": "R$ 30.000,00"
    },
    {
     "imageSrc": "https://img.freepik.com/free-photo/vertical-selective-focus-shot-white-brown-horse-fenced-farmland_181624-47415.jpg?t=st=1736189032~exp=1736192632~hmac=6cccc4df208b06f3ce857c49ac06d6255e1eff8ca0e033a2b8fea38644e14d12&w=360",
@@ -115,7 +163,13 @@
   
     ],  
     "title": "Pônei",
-    "description": "O pônei é uma categoria de equinos amplamente reconhecida por seu tamanho reduzido, aparência robusta e personalidade marcante. Apesar de pequeno, o pônei não deve ser confundido com um cavalo jovem ou miniatura. Ele é, na verdade, uma raça ou um grupo de raças próprias, com características físicas e comportamentais únicas e bem definidas. Esses animais se destacam pela sua força desproporcional ao tamanho, resistência e versatilidade, sendo capazes de desempenhar diversas funções, desde trabalho e transporte até lazer e esportes. Sua aparência compacta e charmosa, combinada com uma inteligência notável e temperamento geralmente amigável, torna os pôneis admirados e queridos em todo o mundo."
+    "description": "O pônei é uma categoria de equinos amplamente reconhecida por seu tamanho reduzido, aparência robusta e personalidade marcante. Apesar de pequeno, o pônei não deve ser confundido com um cavalo jovem ou miniatura. Ele é, na verdade, uma raça ou um grupo de raças próprias, com características físicas e comportamentais únicas e bem definidas. Esses animais se destacam pela sua força desproporcional ao tamanho, resistência e versatilidade, sendo capazes de desempenhar diversas funções, desde trabalho e transporte até lazer e esportes. Sua aparência compacta e charmosa, combinada com uma inteligência notável e temperamento geralmente amigável, torna os pôneis admirados e queridos em todo o mundo.",
+    "weight": "200 kg",
+    "age": "10 anos",
+    "color": "Preto",
+    "history": "Originário de diversas regiões do mundo, o Pônei é frequentemente utilizado para atividades recreativas, terapias equestres e como animal de estimação devido ao seu tamanho e comportamento amigável.",
+    "special": "Excelente para atividades recreativas, terapias equestres e como companhia para crianças, com um temperamento dócil e brincalhão.",
+    "prize": "R$ 15.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/close-up-horse-nature_23-2149312829.jpg?t=st=1736189811~exp=1736193411~hmac=345c38a9ad3f115fd879f17c62a08aac288b414c9b0f597953aa4fa5c94e3def&w=360",
@@ -128,7 +182,14 @@
   
     ],  
     "title": "Outros",
-    "description": "A raça Outros refere-se a cavalos que não se encaixam em raças específicas ou que possuem origens mistas. Esses animais variam em tamanho, aparência e temperamento, podendo ser desde mais calmos e dóceis até enérgicos e independentes. Eles são adaptáveis e frequentemente usados para montaria recreativa, trabalho rural ou como animais de estimação. Por não pertencerem a raças puras, costumam ser mais acessíveis e fáceis de cuidar, mas ainda assim possuem qualidades únicas que os tornam valiosos em diversas atividades."
+    "description": "A raça Outros refere-se a cavalos que não se encaixam em raças específicas ou que possuem origens mistas. Esses animais variam bastante em tamanho, aparência e temperamento, podendo ser desde mais calmos e dóceis até enérgicos e independentes. Eles são conhecidos por sua adaptabilidade e são frequentemente utilizados para montaria recreativa, trabalho rural ou até mesmo como animais de estimação. Por não pertencerem a raças puras, costumam ser mais acessíveis financeiramente e fáceis de cuidar, mas ainda assim possuem qualidades únicas que os tornam valiosos em diversas atividades. Sua versatilidade e resistência os tornam uma excelente opção para quem busca um cavalo funcional e temperamental.",
+    "weight": "Varia conforme a raça",
+      "age": "Varia conforme a raça",
+      "color": "Diversas",
+      "history": "Essa categoria inclui raças menos conhecidas ou misturas de raças, cada uma com sua própria história e origem.",
+      "special": "Dependendo da raça, podem ser utilizados para diversas finalidades, como trabalho, esporte ou lazer.",
+      "prize": "Valor variável"
+    
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/vertical-shot-horse-tied-tree-with-saddle_181624-15926.jpg?t=st=1736190788~exp=1736194388~hmac=04c4eb8d0cf03b2c37037905b2077f42e22e68294054cd16d03feef96c902890&w=360",
@@ -140,7 +201,13 @@
     "https://img.freepik.com/free-photo/handsme-man-standing-ranch_1157-24857.jpg?t=st=1738436672~exp=1738440272~hmac=0c73cde8c60473b6e8c17d2ea0ba2f4023fa5b780f2d2fa4f71e99eb8b73c24c&w=360"
     ],  
     "title": "Belgian",
-    "description": "O cavalo Belgian é uma raça de tração pesada, originária da Bélgica, conhecida por seu tamanho imponente e força extraordinária. De porte grande e musculatura robusta, o Belgian é utilizado principalmente em atividades que exigem grande capacidade de trabalho, como a agricultura e o transporte de cargas pesadas."
+    "description": "O cavalo Belgian é uma raça de tração pesada, originária da Bélgica, reconhecida mundialmente por seu tamanho imponente e força extraordinária. De porte grande e musculatura robusta, o Belgian se destaca por sua capacidade de realizar trabalhos pesados com eficiência. Essa raça é amplamente utilizada em atividades que exigem grande força e resistência, como a agricultura, o transporte de cargas pesadas e até mesmo em competições de tração. Além de sua funcionalidade, o Belgian também é admirado por seu temperamento dócil e cooperativo, o que facilita o manejo e o trabalho em equipe.",
+    "weight": "800 kg",
+      "age": "5 anos",
+      "color": "Ruão",
+      "history": "Originária da Bélgica, a raça Belgian é uma das mais antigas e influentes raças de cavalos de tração, sendo muito valorizada por sua capacidade de trabalho pesado.",
+      "special": "Excelente para trabalhos de tração, como arar campos ou transportar cargas pesadas, além de ser um cavalo calmo e confiável.",
+      "prize": "R$ 40.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/close-up-horse-nature_23-2149312893.jpg?t=st=1736192411~exp=1736196011~hmac=7be7c5e734a6290812849d9a79f196d6ef238ecd4437ae936adaf27a9c1d452e&w=360",
@@ -151,7 +218,13 @@
   "https://img.freepik.com/premium-photo/two-horses-cuddling-with-each-other_53876-1389.jpg?w=360"
 ],
     "title": "Argentino",
-    "description": "A raça Argentino é conhecida por sua versatilidade, resistência e habilidade natural para diversas atividades equestres. Esses cavalos apresentam um porte médio, musculatura bem desenvolvida e pelagem variada, sendo frequentemente admirados por sua elegância e agilidade. O temperamento equilibrado, aliado à inteligência e disposição para o trabalho, torna-os ideais para esportes como polo, hipismo e também para atividades rurais.Originária da Argentina, a raça combina características de linhagens europeias e crioulas, resultando em animais adaptados a diferentes climas e terrenos. Além disso, sua resistência e fácil manejo fazem do Argentino uma escolha popular para cavaleiros de todas as idades e níveis de experiência, consolidando-o como uma das raças mais apreciadas na América do Sul."
+    "description": "A raça Argentino é conhecida por sua versatilidade, resistência e habilidade natural para diversas atividades equestres. Esses cavalos apresentam um porte médio, musculatura bem desenvolvida e pelagem variada, sendo frequentemente admirados por sua elegância e agilidade. O temperamento equilibrado, aliado à inteligência e disposição para o trabalho é ideal para esportes como polo, hipismo e para atividades rurais. Originária da Argentina, a raça combina características de linhagens europeias e crioulas, resultando em animais adaptados a diferentes climas e terrenos. Sua resistência e fácil manejo fazem do Argentino uma escolha para cavaleiros de todas as idades.",
+    "weight": "450 kg",
+      "age": "5 anos",
+      "color": "Tordilho",
+      "history": "O cavalo Argentino foi desenvolvido na Argentina a partir de cruzamentos entre raças europeias, como o Puro Sangue Inglês e o Crioulo, resultando em um animal adaptado às necessidades locais, como trabalho rural e esportes equestres.",
+      "special": "Excelente para provas de salto, adestramento e trabalho rural, com um temperamento equilibrado e fácil de treinar.",
+      "prize": "R$ 30.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/close-up-horse-nature_23-2149312857.jpg?t=st=1736192521~exp=1736196121~hmac=1078e66ccf4c0c8807dd962ac5843772a87e5ef1a66cbe49ec77c1296b8e1253&w=360",
@@ -162,7 +235,13 @@
 "https://img.freepik.com/free-photo/vertical-shot-gray-horse-wearing-harness-walking-sandy-ground_181624-18358.jpg?t=st=1738439295~exp=1738442895~hmac=b7969c6ca62c82bf488719a061125478935ea4043029d359dfd2f88e5eacfec2&w=360"
 ],
     "title": "Bretão",
-    "description": "A raça Betrão é conhecida por sua força, resistência e versatilidade, sendo ideal para trabalhos no campo e atividades de tração. Com porte robusto, musculatura bem definida e pelagem densa, esses cavalos são altamente adaptáveis a diferentes climas e terrenos.Seu temperamento equilibrado e disposição para o trabalho tornam o Betrão confiável tanto para tarefas diárias quanto para cavaleiros iniciantes. Popular em várias regiões, essa raça se destaca por sua durabilidade e fácil manejo, sendo valorizada por sua eficiência em diversas atividades."
+    "description": "A raça Betrão é reconhecida por sua força, resistência e versatilidade, características que a tornam ideal para trabalhos no campo e atividades de tração. Com um porte robusto, musculatura bem definida e pelagem densa, esses cavalos demonstram uma notável capacidade de adaptação a diferentes climas e terrenos, o que os torna extremamente funcionais em diversas situações. Seu temperamento equilibrado e disposição para o trabalho fazem do Betrão um animal confiável, tanto para tarefas diárias quanto para cavaleiros iniciantes, que buscam um parceiro estável e seguro. essa raça se destaca por sua durabilidade, mas também pelo fácil manejo.",
+    "weight": "800 kg",
+  "age": "9 anos",
+  "color": "Castanho",
+  "history": "Originário da Bretanha, na França, o Bretão foi desenvolvido para trabalhos agrícolas e de transporte.",
+  "special": "Excelente para tração e desfiles, com um temperamento calmo e gentil.",
+  "prize": "R$ 100.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/premium-photo/brown-horse-standing-against-sky_1048944-28400936.jpg?w=360",
@@ -173,7 +252,13 @@
 "https://img.freepik.com/free-photo/beautiful-brown-horses-field_23-2148573809.jpg?t=st=1738440131~exp=1738443731~hmac=b92fe71df21ee0c5fb835c4701f1c20f2654391dc9e10cc355a1257cdca30c7d&w=360"
 ],
     "title": "Crioula",
-    "description": "A raça Crioula é conhecida por sua resistência, agilidade e grande capacidade de adaptação, sendo amplamente utilizada em atividades rurais e provas de laço. Com porte médio, musculatura compacta e pelagem variada, esses cavalos são famosos por sua força e habilidade em percorrer longas distâncias. Dotados de um temperamento calmo e inteligente, os Crioulos são ideais para o trabalho no campo e competições equestres, especialmente nas tradições gaúchas. Sua origem sul-americana e manejo rústico os tornam uma das raças mais valorizadas na América Latina."
+    "description": "A raça Crioula é conhecida por sua resistência, agilidade e grande capacidade de adaptação, sendo amplamente utilizada em atividades rurais e provas de laço. Com porte médio, musculatura compacta e pelagem variada, esses cavalos são famosos por sua força e habilidade em percorrer longas distâncias. Dotados de um temperamento calmo e inteligente, os Crioulos são ideais para o trabalho no campo e competições equestres, especialmente nas tradições gaúchas. Sua origem sul-americana e manejo rústico os tornam uma das raças mais valorizadas na América Latina.",
+    "weight": "400 kg",
+      "age": "7 anos",
+      "color": "Gateado",
+      "history": "A raça Crioula descende dos cavalos trazidos pelos colonizadores espanhóis no século XVI. Adaptou-se ao ambiente do Pampa, desenvolvendo resistência e habilidade para o trabalho com gado.",
+      "special": "Excelente para atividades campeiras, como lida com gado, e para esportes como o freio de ouro e provas de rédeas.",
+      "prize": "R$ 25.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/ai-generated-horses-picture_23-2150650906.jpg?t=st=1736193343~exp=1736196943~hmac=f1718a265efff7811580503bcaa829350e6be197b88e98b5d7398e85e89b07ce&w=360",
@@ -184,7 +269,13 @@
 "https://img.freepik.com/free-photo/close-up-horse-nature_23-2149312808.jpg?t=st=1738441308~exp=1738444908~hmac=7f9208dbf63bfc821e13488ceda762c56ff85d161d6777066a443928ea73c8b7&w=360"
 ],
     "title": "Pampa",
-    "description": "A raça Pampa é reconhecida por sua pelagem característica em padrões de manchas brancas e coloridas, além de sua versatilidade. De porte médio e musculatura equilibrada, é ideal para montaria, trabalho rural e lazer. Com temperamento dócil e ágil, o Pampa destaca-se pela beleza e facilidade de manejo, sendo muito popular em eventos e atividades equestres no Brasil."
+    "description": "A raça Pampa é amplamente reconhecida por sua pelagem única, marcada por padrões de manchas brancas e coloridas, que lhe conferem um visual distinto e encantador. Além de sua aparência impressionante, essa raça se destaca pela versatilidade, sendo utilizada em diversas atividades, como montaria, trabalho rural e lazer. Com um porte médio e musculatura equilibrada, o Pampa combina agilidade e resistência, características que o tornam ideal tanto para tarefas no campo quanto para práticas esportivas e recreativas. Seu temperamento dócil, aliado à facilidade de manejo, faz dele uma excelente escolha para cavaleiros de todos os níveis de experiência, incluindo iniciantes.",
+    "weight": "400 kg",
+      "age": "6 anos",
+      "color": "Pampa (pelagem manchada)",
+      "history": "A raça Pampa descende dos cavalos Crioulos, mas se destaca por sua pelagem única, que pode apresentar padrões como tobiano, overo ou sabino. Essa característica é resultado de seleção natural e genética.",
+      "special": "Além das habilidades típicas da raça Crioula, o Pampa é altamente valorizado por sua beleza estética, sendo frequentemente utilizado em exposições e competições de morfologia.",
+      "prize": "R$ 30.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/premium-photo/horse-standing-farm_1048944-7485175.jpg?w=360",
@@ -195,7 +286,13 @@
   "https://i.pinimg.com/originals/4f/f9/78/4ff978d39d4045f5bbe9b8a9345f79c4.jpg"
 ],
     "title": "Percheron",
-    "description": "O cavalo Percheron é uma raça de tração pesada conhecida por sua força, resistência e porte majestoso. De origem francesa, possui musculatura robusta, cabeça expressiva e pelagem geralmente preta ou cinza. Com temperamento calmo e confiável, o Percheron é amplamente utilizado em trabalhos agrícolas, transporte e eventos cerimoniais, sendo valorizado por sua versatilidade e beleza."
+    "description": "O cavalo Percheron é uma raça de tração pesada reconhecida mundialmente por sua força impressionante, resistência excepcional e porte majestoso. Originário da França, esse equino se destaca por sua musculatura robusta, cabeça expressiva e pelagem que geralmente varia entre as cores preta ou cinza, conferindo-lhe uma aparência elegante e imponente. Além de suas características físicas, o Percheron é conhecido por seu temperamento calmo e confiável, o que o torna um parceiro ideal para diversas atividades. Ele é amplamente utilizado em trabalhos agrícolas, transporte de cargas pesadas e até mesmo em eventos cerimoniais, onde sua presença grandiosa e movimentos graciosos chamam a atenção.",
+    "weight": "900 kg",
+  "age": "8 anos",
+  "color": "Cinza",
+  "history": "Originário da região de Perche, na França, o Percheron foi desenvolvido para trabalhos agrícolas e de transporte. Hoje, é popular em desfiles e eventos.",
+  "special": "Excelente para tração e desfiles, com um temperamento calmo e gentil.",
+  "prize": "R$ 110.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/premium-photo/horse-field_1048944-10968836.jpg?w=360",
@@ -206,7 +303,13 @@
   "https://i.pinimg.com/736x/2e/6a/c5/2e6ac53089f5d79b0a6dcd9733a5f2f0.jpg"
 ],
     "title": "Lusitano",
-    "description": "O cavalo Lusitano é uma raça portuguesa reconhecida por sua elegância, agilidade e temperamento equilibrado. Com porte médio, musculatura bem definida e movimentos fluidos, é amplamente utilizado em alta escola, touradas e competições de adestramento. Além de sua beleza e inteligência, o Lusitano é admirado por sua capacidade de aprendizado e disposição para o trabalho, sendo uma das raças mais tradicionais e valorizadas do mundo."
+    "description": "O cavalo Lusitano é uma raça portuguesa de prestígio internacional, celebrada por sua elegância refinada, agilidade impressionante e temperamento equilibrado. Com um porte médio, musculatura bem definida e movimentos fluidos e harmoniosos, o Lusitano se destaca em atividades que exigem precisão e graciosidade, como a alta escola, as touradas e as competições de adestramento. Além de sua beleza marcante e inteligência notável, essa raça é admirada por sua capacidade de aprendizado rápido e disposição para o trabalho, características que o tornam um parceiro excepcional tanto para cavaleiros experientes quanto para iniciantes.",
+    "weight": "550 kg",
+  "age": "9 anos",
+  "color": "Cinza",
+  "history": "Originário de Portugal, o Lusitano é uma raça antiga que foi usada em batalhas e, posteriormente, em esportes equestres.",
+  "special": "Excelente para adestramento e touradas, com movimentos ágeis e temperamento dócil.",
+  "prize": "R$ 85.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/shallow-focus-vertical-shot-brown-horse-wearing-harness-running-sandy-ground_181624-20625.jpg?t=st=1736194323~exp=1736197923~hmac=ca637ca61de6ff9acc09759b886c48a5e6b12a1180eb71b749d1f12d4f715d4d&w=360",
@@ -217,7 +320,13 @@
     "https://i.pinimg.com/736x/dd/2c/9a/dd2c9a34c2c94d4229c263fa1400ced6.jpg"
   ],
     "title": "Frísio",
-    "description": "O cavalo Frísio é conhecido por sua beleza única, com pelagem negra brilhante, crina longa e volumosa e movimentos elegantes. Originário da Holanda, destaca-se por sua força e porte imponente, sendo muito utilizado em apresentações, desfiles e conduções cerimoniais. Com temperamento dócil e inteligente, o Frísio é versátil, podendo ser usado tanto para montaria quanto para tração leve, sempre chamando atenção por sua presença marcante."
+    "description": "O cavalo Frísio é reconhecido por sua beleza única e inconfundível, caracterizada por uma pelagem negra brilhante, crina longa e volumosa e movimentos elegantes e altivos. Originário da Holanda, essa raça se destaca não apenas por sua aparência majestosa, mas também por sua força e porte imponente, que lhe conferem uma presença marcante em qualquer cenário. O Frísio é amplamente utilizado em apresentações, desfiles e conduções cerimoniais, onde sua graça e imponência são especialmente valorizadas. Além disso, seu temperamento dócil e inteligência aguçada o tornam um cavalo versátil.",
+    "weight": "600 kg",
+      "age": "8 anos",
+      "color": "Preto",
+      "history": "O cavalo Frísio é uma das raças mais antigas da Europa, com registros que remontam à Idade Média. Eram utilizados como cavalos de guerra e, posteriormente, como cavalos de tração e montaria. Hoje, são apreciados por sua beleza e habilidades em dressage e condução.",
+      "special": "O Frísio é conhecido por sua movimentação impressionante, com passos elevados e graciosos. Sua pelagem negra brilhante e crina exuberante o tornam um dos cavalos mais deslumbrantes do mundo.",
+      "prize": "R$ 50.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/close-up-horse-nature_23-2149312810.jpg?t=st=1736199317~exp=1736202917~hmac=a92ff7db69a1e5dd2da4c358964b12ab86f9d49fbdf2e4176c19acb8bb85cc2d&w=360",
@@ -228,7 +337,13 @@
   "https://i.pinimg.com/736x/91/67/c3/9167c3917881a8727f163928188e87e8.jpg"
 ],
     "title": "Shire",
-    "description": "O cavalo Shire é conhecido como a maior raça do mundo, destacando-se por seu porte imponente, força extraordinária e temperamento dócil. Originário da Inglaterra, foi amplamente utilizado em tração pesada, especialmente no transporte de cargas e atividades agrícolas. Com musculatura robusta, pernas fortes e longas, e frequentemente adornado com pelos abundantes nos cascos, o Shire também é valorizado em desfiles e eventos cerimoniais. Apesar de seu tamanho, é um cavalo gentil e confiável, muito admirado por sua majestosa presença e capacidade de trabalho."
+    "description": "O cavalo Shire é conhecido como a maior raça do mundo, destacando-se por seu porte imponente, força extraordinária e temperamento dócil. Originário da Inglaterra, foi amplamente utilizado em tração pesada, especialmente no transporte de cargas e atividades agrícolas. Com musculatura robusta, pernas fortes e longas, e frequentemente adornado com pelos abundantes nos cascos, o Shire também é valorizado em desfiles e eventos cerimoniais. Apesar de seu tamanho, é um cavalo gentil e confiável, muito admirado por sua majestosa presença e capacidade de trabalho.Sua combinação de beleza, força e docilidade faz ser uma raça altamente apreciada por criadores quanto por admiradores de cavalos.",
+    "weight": "1000 kg",
+  "age": "10 anos",
+  "color": "Preto",
+  "history": "Originário da Inglaterra, o Shire foi desenvolvido para trabalhos agrícolas e de transporte. Hoje, é um símbolo de força e tradição.",
+  "special": "Excelente para tração e eventos tradicionais, com um temperamento calmo e gentil.",
+  "prize": "R$ 130.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/premium-photo/thoroughbred-stallion-close-up-stable-ranch-animal-husbandry-breeding-thoroughbred-horses_180601-12110.jpg?w=360",
@@ -239,7 +354,13 @@
     "https://i.pinimg.com/736x/35/0c/35/350c350cac10d86fe3fb33b91d9a3f0a.jpg"
   ],
     "title": "Andaluz",
-    "description": "O cavalo Andaluz é uma raça espanhola famosa por sua elegância, agilidade e grande capacidade de treinamento. Com porte médio, musculatura definida e movimentos fluidos, o Andaluz é altamente valorizado em competições de alta escola, adestramento e esportes equestres. Além de sua beleza e inteligência, o Andaluz é conhecido por seu temperamento dócil, o que o torna um excelente parceiro para cavaleiros de todos os níveis. Sua origem antiga e sua presença marcante fazem dele uma das raças mais admiradas no mundo equestre."
+    "description": "O cavalo Andaluz é uma raça espanhola de renome internacional, celebrada por sua elegância incomparável, agilidade excepcional e grande capacidade de treinamento. Com um porte médio, musculatura bem definida e movimentos fluidos e graciosos, o Andaluz se destaca em diversas modalidades, como alta escola, adestramento e esportes equestres, onde sua precisão e beleza são amplamente reconhecidas. Além de sua aparência imponente e inteligência notável, o Andaluz é conhecido por seu temperamento dócil e disposição colaborativa, características que o tornam um parceiro ideal para cavaleiros de todos os níveis, desde iniciantes até profissionais experientes.",
+    "weight": "550 kg",
+    "age": "9 anos",
+    "color": "Cinza",
+    "history": "Originário da região da Andaluzia, na Espanha, o Andaluz é uma raça antiga que foi usada como cavalo de guerra e, posteriormente, em esportes equestres.",
+    "special": "Excelente para adestramento clássico e apresentações, com movimentos graciosos e temperamento dócil.",
+    "prize": "R$ 90.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/beautiful-quiet-white-horse-waits-paddock-animals-ranch_639032-511.jpg?t=st=1736200233~exp=1736203833~hmac=1e916162dae28a2e46778d2cc764cf483e0d256247d7f69f00a28f34b4a652e0&w=360",
@@ -250,7 +371,13 @@
     "https://i.pinimg.com/736x/13/dc/1c/13dc1c2d94613646dbb84b33212adcbe.jpg"
   ],
     "title": "Gypsy Vanner",
-    "description": "O cavalo Gypsy Vanner é uma raça conhecida por sua aparência impressionante e pelagem manchada, com pelos longos nas patas, que lhe conferem um visual elegante e distinto. Originário da Grã-Bretanha, foi criado pelos ciganos para puxar carroças, o que lhe conferiu força, resistência e um temperamento equilibrado. Com porte médio e postura majestosa, o Gypsy Vanner é calmo, inteligente e muito adaptável, sendo ideal para montaria, desfiles e apresentações. Sua natureza gentil e a beleza de sua pelagem o tornam uma escolha popular em eventos equestres e entre amantes de cavalos."
+    "description": "O cavalo Gypsy Vanner é uma raça conhecida por sua aparência impressionante e pelagem manchada, com pelos longos nas patas, que lhe conferem um visual elegante e distinto. Originário da Grã-Bretanha, foi criado pelos ciganos para puxar carroças, o que lhe conferiu força, resistência e um temperamento equilibrado. Com porte médio e postura majestosa, o Gypsy Vanner é calmo, inteligente e muito adaptável, sendo ideal para montaria, desfiles e apresentações. Sua natureza gentil e a beleza de sua pelagem o tornam uma escolha popular em eventos equestres e entre amantes de cavalos.",
+    "weight": "500 kg",
+      "age": "7 anos",
+      "color": "Malhado (pintado)",
+      "history": "O Gypsy Vanner foi desenvolvido ao longo de décadas pelos ciganos nômades da Inglaterra e Irlanda, que buscavam um cavalo forte, resistente e de aparência única para puxar suas carroças. A raça foi formalmente reconhecida apenas na década de 1990, mas rapidamente ganhou popularidade mundial por sua beleza e temperamento.",
+      "special": "Além de sua aparência marcante, o Gypsy Vanner é conhecido por sua personalidade gentil e versatilidade. São utilizados em equitação, terapias equestres, exposições e até mesmo como animais de estimação.",
+      "prize": "R$ 40.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/premium-photo/close-up-horse-against-sky_1048944-355400.jpg?w=360",
@@ -261,7 +388,13 @@
     "https://i.pinimg.com/736x/ec/84/fe/ec84fe9cebad2e1928eb554ff540ddf5.jpg"
   ],
     "title": "Akhal-Teke",
-    "description": "O cavalo Akhal-Teke é uma das raças mais antigas do mundo, originária do Turcomenistão. Famoso por sua pelagem metálica e aparência esbelta, o Akhal-Teke é extremamente resistente e adaptado a climas quentes e áridos. Além de sua beleza única, com um corpo fino e musculatura definida, essa raça é conhecida por sua velocidade e agilidade, sendo frequentemente utilizada em corridas e esportes equestres. O temperamento do Akhal-Teke é inteligente e independente, o que exige um cavaleiro experiente para aproveitar ao máximo suas habilidades."
+    "description": "O cavalo Akhal-Teke é uma das raças mais antigas do mundo, originária do Turcomenistão. Famoso por sua pelagem metálica e aparência esbelta, o Akhal-Teke é extremamente resistente e adaptado a climas quentes e áridos. Além de sua beleza única, com um corpo fino e musculatura definida, essa raça é conhecida por sua velocidade e agilidade, sendo frequentemente utilizada em corridas e esportes equestres. O temperamento do Akhal-Teke é inteligente e independente, o que exige um cavaleiro experiente para aproveitar ao máximo suas habilidades.",
+    "weight": "450 kg",
+      "age": "10 anos",
+      "color": "Dourado, Palomino, Baio, Preto",
+      "history": "O Akhal-Teke tem uma história que remonta a mais de 3.000 anos, sendo considerado o cavalo nacional do Turcomenistão. Era utilizado por guerreiros nômades e valorizado por sua velocidade e resistência em longas distâncias. A raça quase foi extinta durante o século XX, mas foi preservada graças a esforços de criadores dedicados.",
+      "special": "O Akhal-Teke é famoso por sua pelagem única, que brilha como metal ao sol, e por sua habilidade em competições de resistência e salto. Além disso, é um cavalo inteligente e leal, formando laços fortes com seus donos.",
+      "prize": "R$ 80.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/free-photo/vertical-shot-horse-eating-hay_181624-19955.jpg?t=st=1736200894~exp=1736204494~hmac=edccaa4b39db1b4f52aaaa4852d18d4cdd6fb671aa938a4f27b3fe823de9b18f&w=360",
@@ -272,18 +405,32 @@
     "https://i.pinimg.com/736x/36/9c/f2/369cf280b42a2a334ae05c533c1aafd0.jpg"
   ],
     "title": "Musto",
-    "description": "O Musto é uma raça de cavalo forte e resistente, originária das regiões montanhosas e utilizadas principalmente para trabalho em terrenos difíceis. Com um porte médio e musculatura bem definida, o Musto é especialmente apreciado em atividades rurais e para cavalgadas em terrenos acidentados, graças à sua agilidade e capacidade de adaptação a diferentes ambientes."
+    "description": "O Musto é uma raça de cavalo conhecida por sua força impressionante e resistência excepcional, características que o tornam ideal para enfrentar os desafios das regiões montanhosas de onde se originou. Com um porte médio e musculatura bem definida, o Musto é um animal robusto e ágil, capaz de se adaptar a terrenos difíceis e condições adversas. Essas qualidades o tornam especialmente valorizado em atividades rurais, como o transporte de cargas e o trabalho em fazendas, além de ser um excelente companheiro para cavalgadas em terrenos acidentados, onde sua agilidade e estabilidade são fundamentais.",
+    "weight": "400 kg",
+      "age": "12 anos",
+      "color": "Diversas (baio, alazão, tordilho, preto, etc.)",
+      "history": "Os Mustangs são descendentes de cavalos espanhóis que foram trazidos para as Américas no século XVI. Ao longo dos anos, muitos desses cavalos escaparam ou foram soltos, formando rebanhos selvagens que se espalharam pelo oeste dos Estados Unidos. Hoje, são símbolos da liberdade e da cultura do Velho Oeste.",
+      "special": "O Mustang é um cavalo extremamente resistente e adaptável, capaz de sobreviver em ambientes hostis. Sua personalidade independente e forte o torna um desafio para domesticação, mas também um companheiro leal e versátil quando conquistado.",
+      "prize": "R$ 20.000,00"
   },
   {
     "imageSrc": "https://img.freepik.com/premium-photo/thoroughbred-stallion-close-up-stable-ranch-animal-husbandry-breeding-thoroughbred-horses_180601-7190.jpg?w=360",
+    
     "images": [ "https://img.freepik.com/premium-photo/thoroughbred-stallion-close-up-stable-ranch-animal-husbandry-breeding-thoroughbred-horses_180601-7190.jpg?w=360",
     "https://i.pinimg.com/736x/f7/53/97/f7539740ece95b13b63d0e3b647d3299.jpg",
     "https://i.pinimg.com/736x/88/62/90/88629040c131e55f69ece74b7c005a54.jpg",
     "https://i.pinimg.com/736x/33/f3/fb/33f3fb822e87c1e2f4cbe7fe5ec2dbc6.jpg",
     "https://i.pinimg.com/736x/84/d9/f6/84d9f61edafbe5a1550dbac48b1653ba.jpg"
+    
   ],
     "title": "Hanoveriano",
-    "description": "O cavalo Hanoveriano é uma raça de origem alemã, conhecida por sua excelência em competições de adestramento e salto. Com um porte imponente, musculatura bem definida e movimentos graciosos, o Hanoveriano é amplamente reconhecido no mundo dos esportes equestres de alto nível. Além de sua habilidade atlética, essa raça é muito apreciada por sua inteligência, coragem e facilidade de treinamento, o que a torna ideal para cavaleiros e amazonas que buscam alto desempenho. O temperamento equilibrado do Hanoveriano, combinado com sua habilidade em adestramento e saltos, faz dele uma das raças mais procuradas em competições internacionais."
+    "description": "O cavalo Hanoveriano é uma raça de origem alemã, conhecida por sua excelência em competições de adestramento e salto. Com um porte imponente, musculatura bem definida e movimentos graciosos, o Hanoveriano é amplamente reconhecido no mundo dos esportes equestres de alto nível. Além de sua habilidade atlética, essa raça é muito apreciada por sua inteligência, coragem e facilidade de treinamento, o que a torna ideal para cavaleiros e amazonas que buscam alto desempenho. O temperamento equilibrado do Hanoveriano, combinado com sua habilidade em adestramento e saltos, faz dele uma das raças mais procuradas em competições internacionais.",
+    "weight": "600 kg",
+  "age": "8 anos",
+  "color": "Alazão",
+  "history": "Originário da região de Hannover, na Alemanha, o Hanoveriano foi desenvolvido para competições equestres de alto nível.",
+  "special": "Excelente para saltos e adestramento, com um temperamento inteligente e atlético.",
+  "prize": "R$ 95.000,00"
   }
    
  ]
